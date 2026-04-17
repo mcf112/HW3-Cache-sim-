@@ -1,4 +1,4 @@
-# HW3-Cache-sim-
+# HW3 Cache Sim
 
  worked alone 
  # How to compile: 
